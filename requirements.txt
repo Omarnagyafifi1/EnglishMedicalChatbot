@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+langchain-groq
+flask
+sentence-transformers
+pypdf
+python-dotenv
+ipynb
+langchain_huggingface
